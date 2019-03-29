@@ -22,3 +22,5 @@ exports.mul=function(){
 exports.div=function (a, b){
   return a/b;
 };
+
+
