@@ -1,0 +1,24 @@
+{
+  "name": "jsasmd",
+  "version": "0.0.1",
+  "description": "这是一个算术运算的模块，只计算加减乘除，只作个人测试用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jskmd/jsasmd.git"
+  },
+  "keywords": [
+    "js",
+    "asmd",
+    "jsasmd"
+  ],
+  "author": "jskmd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jskmd/jsasmd/issues"
+  },
+  "homepage": "https://github.com/jskmd/jsasmd#readme"
+}
